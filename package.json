@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "script":"node server.js",
+    "script":{
+      "start":"node server.js"
+    }
     "json-server": "^0.17.4"
   }
 }
